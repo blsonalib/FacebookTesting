@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.script.TestFaceBook" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-16T14:25:46" hostname="admin1-desktop" time="17.125">
+  <properties/>
+  <testcase name="loginFacebook" classname="com.bridgelabz.script.TestFaceBook" time="17.125"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

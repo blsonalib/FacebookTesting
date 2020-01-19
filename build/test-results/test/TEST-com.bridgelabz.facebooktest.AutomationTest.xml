@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.facebooktest.AutomationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-19T10:58:44" hostname="admin1-desktop" time="5.213">
+  <properties/>
+  <testcase name="alertOperation" classname="com.bridgelabz.facebooktest.AutomationTest" time="5.213"/>
+  <system-out><![CDATA[Do you really want to delete this Customer?
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

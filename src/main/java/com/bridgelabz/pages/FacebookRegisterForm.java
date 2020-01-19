@@ -23,7 +23,7 @@ public class FacebookRegisterForm {
     private WebElement bYear;
     @FindBy(xpath = "//label[contains(text(),'Female')]")
     private WebElement genderFemale;
-    @FindBy(xpath = "websubmit")
+    @FindBy(name = "websubmit")
     private WebElement signUp;
 
     public FacebookRegisterForm(WebDriver driver) {
@@ -58,7 +58,7 @@ public class FacebookRegisterForm {
         genderFemale.click();
     }
 
-    public void setSignUp(){
+    public void clickSignUp(){
         signUp.click();
     }
 }

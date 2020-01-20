@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="/home/admin1/Documents/PrajktaRaut/Facebook_Testing/src/test/java/com/bridgelabz/facebooktest/TestPDFFile.java"><classes><class name="com.bridgelabz.facebooktest.TestPDFFile"><methods><include name="readPDFFile"/></methods></class></classes></test></suite>

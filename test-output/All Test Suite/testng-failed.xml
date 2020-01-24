@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="/home/admin1/Documents/PrajktaRaut/Facebook_Testing/src/test/java/com/bridgelabz/facebooktest/OpenBrowserScript.java(failed)">
+    <classes>
+      <class name="com.bridgelabz.facebooktest.OpenBrowserScript">
+        <methods>
+          <include name="alreadyOpenBrowser"/>
+        </methods>
+      </class> <!-- com.bridgelabz.facebooktest.OpenBrowserScript -->
+    </classes>
+  </test> <!-- /home/admin1/Documents/PrajktaRaut/Facebook_Testing/src/test/java/com/bridgelabz/facebooktest/OpenBrowserScript.java(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
